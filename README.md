@@ -28,7 +28,6 @@ API REST desarrollada para gestionar la lógica de negocio, autenticación y per
 | **City** | Destinos turísticos con foto, país y descripción |
 | **Itinerary** | Planes de viaje (precio, duración, likes, tags, autor) |
 | **Activity** | Actividades específicas dentro de cada itinerario |
-| **Comment** | Comentarios anidados de usuarios en itinerarios |
 
 ---
 
